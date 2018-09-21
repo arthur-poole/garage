@@ -1,0 +1,250 @@
+312;header-location;system
+312;language;c
+330;header-location;system
+330;language;c
+306;header-location;system
+306;language;c
+29;header-location;system
+29;language;c
+302;header-location;system
+302;language;c
+533;header-location;system
+533;language;c
+786;issystem;true
+786;language;c
+10;language;c
+12;language;c
+487;header-location;system
+487;language;c
+530;header-location;system
+530;language;c
+25;header-location;system
+25;language;c
+324;header-location;system
+324;language;c
+5;translation-mode;implementation
+5;language;c
+658;_signature;int _vscprintf(const char*, __builtin_va_list)
+632;_signature;int unlink(const char*)
+694;_signature;int feof(FILE*)
+692;externality;declared
+692;_signature;int fgetpos(FILE*, fpos_t*)
+787;_signature;int fgetpos(FILE*, fpos_t*)
+693;_signature;int fsetpos(FILE*, const fpos_t*)
+726;optimization;inline
+726;_signature;__off64_t ftello64(FILE*)
+727;linkage;static
+727;optimization;inline
+727;_signature;__off64_t ftello64(FILE*)
+645;externality;declared
+645;_signature;int printf(const char*, ...)
+788;_signature;int printf(const char*, ...)
+705;_signature;FILE* _fdopen(int, const char*)
+674;_signature;int puts(const char*)
+633;_signature;int setvbuf(FILE*, char*, int, size_t)
+781;_signature;int isInUse(int)
+784;_signature;int selectedCarInRange(int)
+785;_signature;int main()
+701;_signature;int pclose(FILE*)
+677;externality;declared
+677;_signature;int _flsbuf(int, FILE*)
+789;_signature;int _flsbuf(int, FILE*)
+737;_signature;int swscanf(const wchar_t*, const wchar_t*, ...)
+741;_signature;int swprintf(wchar_t*, const wchar_t*, ...)
+623;_signature;int remove(const char*)
+607;externality;imported
+607;externality;unknown
+742;_signature;int vswprintf(wchar_t*, const wchar_t*, __builtin_va_list)
+653;_signature;int __msvcrt_vfprintf(FILE*, const char*, __builtin_va_list)
+756;_signature;wchar_t* _wtempnam(const wchar_t*, const wchar_t*)
+609;typetag;struct
+617;member-access;public
+611;member-access;public
+614;member-access;public
+615;member-access;public
+612;member-access;public
+616;member-access;public
+610;member-access;public
+613;member-access;public
+640;_signature;int __mingw_vprintf(const char*, __builtin_va_list)
+729;_signature;int wprintf(const wchar_t*, ...)
+731;_signature;int vwprintf(const wchar_t*, __builtin_va_list)
+765;_signature;int vswscanf(const wchar_t*, const wchar_t*, __builtin_va_list)
+684;optimization;inline
+684;_signature;int putchar(int)
+685;linkage;static
+685;optimization;inline
+685;_signature;int putchar(int)
+631;_signature;int rmtmp()
+630;_signature;char* tempnam(const char*, const char*)
+664;_signature;ssize_t getdelim(char**, size_t*, int, FILE*)
+725;_signature;int fseeko64(FILE*, __off64_t, int)
+740;_signature;wint_t ungetwc(wchar_t, FILE*)
+644;_signature;int fprintf(FILE*, const char*, ...)
+772;_signature;wint_t fputwchar(wint_t)
+747;_signature;wint_t putwc(wint_t, FILE*)
+751;_signature;FILE* _wfdopen(int, const wchar_t*)
+622;_signature;int fclose(FILE*)
+761;_signature;int snwprintf(wchar_t*, size_t, const wchar_t*, ...)
+635;_signature;int __mingw_fprintf(FILE*, const char*, ...)
+634;_signature;void setbuf(FILE*, char*)
+707;_signature;int _fcloseall()
+750;_signature;int _putws(const wchar_t*)
+762;_signature;int vsnwprintf(wchar_t*, size_t, const wchar_t*, __builtin_va_list)
+764;_signature;int vfwscanf(FILE*, const wchar_t*, __builtin_va_list)
+636;_signature;int __mingw_printf(const char*, ...)
+766;_signature;FILE* wpopen(const wchar_t*, const wchar_t*)
+655;_signature;int __msvcrt_vsprintf(char*, const char*, __builtin_va_list)
+646;_signature;int sprintf(char*, const char*, ...)
+743;_signature;wchar_t* fgetws(wchar_t*, int, FILE*)
+665;_signature;ssize_t getline(char**, size_t*, FILE*)
+680;optimization;inline
+680;_signature;int putc(int, FILE*)
+681;linkage;static
+681;optimization;inline
+681;_signature;int putc(int, FILE*)
+667;externality;declared
+667;_signature;int scanf(const char*, ...)
+790;_signature;int scanf(const char*, ...)
+649;_signature;int vsprintf(char*, const char*, __builtin_va_list)
+708;_signature;FILE* _fsopen(const char*, const char*, int)
+654;_signature;int __msvcrt_vprintf(const char*, __builtin_va_list)
+639;_signature;int __mingw_vfprintf(FILE*, const char*, __builtin_va_list)
+753;_signature;FILE* _wfreopen(const wchar_t*, const wchar_t*, FILE*)
+758;_signature;int _wremove(const wchar_t*)
+763;_signature;int vwscanf(const wchar_t*, __builtin_va_list)
+768;_signature;wint_t _fputwchar(wint_t)
+641;_signature;int __mingw_vsprintf(char*, const char*, __builtin_va_list)
+627;_signature;char* _tempnam(const char*, const char*)
+620;_signature;FILE* freopen(const char*, const char*, FILE*)
+714;externality;declared
+714;_signature;int __mingw_set_printf_count_output(int)
+791;_signature;int __mingw_set_printf_count_output(int)
+722;_signature;int fileno(FILE*)
+699;_signature;int _pclose(FILE*)
+754;_signature;FILE* _wfsopen(const wchar_t*, const wchar_t*, int)
+779;_signature;void getCar(int*)
+776;_signature;void getCar(int*)
+760;_signature;FILE* _wpopen(const wchar_t*, const wchar_t*)
+780;_signature;void initGarage()
+712;externality;declared
+712;_signature;unsigned int __mingw_set_output_format(unsigned int)
+792;_signature;unsigned int __mingw_set_output_format(unsigned int)
+647;_signature;int vfprintf(FILE*, const char*, __builtin_va_list)
+642;_signature;int __mingw_vsnprintf(char*, size_t, const char*, __builtin_va_list)
+744;_signature;int fputws(const wchar_t*, FILE*)
+702;_signature;int _flushall()
+770;_signature;int _putw(int, FILE*)
+669;_signature;int fgetc(FILE*)
+643;_signature;unsigned int _mingw_output_format_control(unsigned int, unsigned int)
+629;_signature;int _unlink(const char*)
+771;_signature;wint_t fgetwchar()
+660;_signature;int vsnprintf(char*, size_t, const char*, __builtin_va_list)
+709;_signature;int _getmaxstdio()
+652;_signature;int __msvcrt_sprintf(char*, const char*, ...)
+700;_signature;FILE* popen(const char*, const char*)
+648;_signature;int vprintf(const char*, __builtin_va_list)
+733;_signature;int _vscwprintf(const wchar_t*, __builtin_va_list)
+728;_signature;int fwprintf(FILE*, const wchar_t*, ...)
+723;optimization;inline
+723;_signature;FILE* fopen64(const char*, const char*)
+724;linkage;static
+724;optimization;inline
+724;_signature;FILE* fopen64(const char*, const char*)
+675;_signature;int ungetc(int, FILE*)
+689;_signature;long int ftell(FILE*)
+769;_signature;int _getw(FILE*)
+659;_signature;int snprintf(char*, size_t, const char*, ...)
+624;_signature;int rename(const char*, const char*)
+663;_signature;int vsscanf(const char*, const char*, __builtin_va_list)
+715;linkage;static
+715;optimization;inline
+715;_signature;unsigned int _get_output_format()
+721;_signature;FILE* fdopen(int, const char*)
+678;optimization;inline
+678;_signature;int getc(FILE*)
+679;linkage;static
+679;optimization;inline
+679;_signature;int getc(FILE*)
+637;_signature;int __mingw_sprintf(char*, const char*, ...)
+621;_signature;int fflush(FILE*)
+773;_signature;int getw(FILE*)
+745;_signature;wint_t getwc(FILE*)
+746;_signature;wint_t getwchar()
+730;_signature;int vfwprintf(FILE*, const wchar_t*, __builtin_va_list)
+774;_signature;int putw(int, FILE*)
+778;_signature;void getOption(int*)
+775;_signature;void getOption(int*)
+755;_signature;wchar_t* _wtmpnam(wchar_t*)
+661;_signature;int vscanf(const char*, __builtin_va_list)
+618;externality;declared
+703;_signature;int _fgetchar()
+698;_signature;FILE* _popen(const char*, const char*)
+711;externality;declared
+711;_signature;unsigned int __mingw_get_output_format()
+794;_signature;unsigned int __mingw_get_output_format()
+687;_signature;size_t fwrite(const void*, size_t, size_t, FILE*)
+735;_signature;int fwscanf(FILE*, const wchar_t*, ...)
+713;externality;declared
+713;_signature;int __mingw_get_printf_count_output()
+795;_signature;int __mingw_get_printf_count_output()
+759;_signature;void _wperror(const wchar_t*)
+767;_signature;wint_t _fgetwchar()
+628;_signature;int _rmtmp()
+752;_signature;FILE* _wfopen(const wchar_t*, const wchar_t*)
+719;_signature;int fgetchar()
+748;_signature;wint_t putwchar(wint_t)
+695;_signature;int ferror(FILE*)
+720;_signature;int fputchar(int)
+672;_signature;int fputs(const char*, FILE*)
+668;_signature;int sscanf(const char*, const char*, ...)
+717;linkage;static
+717;optimization;inline
+717;_signature;int _get_printf_count_output()
+625;_signature;FILE* tmpfile()
+662;_signature;int vfscanf(FILE*, const char*, __builtin_va_list)
+697;_signature;void perror(const char*)
+657;_signature;int _vsnprintf(char*, size_t, const char*, __builtin_va_list)
+757;_signature;int _wrename(const wchar_t*, const wchar_t*)
+783;_signature;void setNotInUse(int)
+671;_signature;int fputc(int, FILE*)
+686;_signature;size_t fread(void*, size_t, size_t, FILE*)
+734;_signature;int _vsnwprintf(wchar_t*, size_t, const wchar_t*, __builtin_va_list)
+716;linkage;static
+716;optimization;inline
+716;_signature;unsigned int _set_output_format(unsigned int)
+718;linkage;static
+718;optimization;inline
+718;_signature;int _set_printf_count_output(int)
+638;_signature;int __mingw_snprintf(char*, size_t, const char*, ...)
+696;_signature;void clearerr(FILE*)
+710;_signature;int _setmaxstdio(int)
+732;_signature;int _snwprintf(wchar_t*, size_t, const wchar_t*, ...)
+682;optimization;inline
+682;_signature;int getchar()
+683;linkage;static
+683;optimization;inline
+683;_signature;int getchar()
+676;externality;declared
+676;_signature;int _filbuf(FILE*)
+796;_signature;int _filbuf(FILE*)
+619;externality;declared
+619;_signature;FILE* fopen(const char*, const char*)
+797;_signature;FILE* fopen(const char*, const char*)
+782;_signature;void setInUse(int)
+736;_signature;int wscanf(const wchar_t*, ...)
+670;_signature;char* fgets(char*, int, FILE*)
+688;_signature;int fseek(FILE*, long int, int)
+673;_signature;char* gets(char*)
+690;_signature;void rewind(FILE*)
+706;_signature;int _fileno(FILE*)
+738;_signature;wint_t fgetwc(FILE*)
+749;_signature;wchar_t* _getws(wchar_t*)
+704;_signature;int _fputchar(int)
+626;_signature;char* tmpnam(char*)
+650;_signature;int __msvcrt_fprintf(FILE*, const char*, ...)
+656;_signature;int _snprintf(char*, size_t, const char*, ...)
+666;_signature;int fscanf(FILE*, const char*, ...)
+739;_signature;wint_t fputwc(wchar_t, FILE*)
+651;_signature;int __msvcrt_printf(const char*, ...)
+1;__locs;102

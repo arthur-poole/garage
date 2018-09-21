@@ -1,0 +1,6 @@
+List of functions with unknown behavior (and their header files)
+
+<SYSTEM>    __mingw_get_output_format;    D:\Programs\mingw_get\include\stdio.h
+<SYSTEM>    __mingw_get_printf_count_output;    D:\Programs\mingw_get\include\stdio.h
+<SYSTEM>    __mingw_set_output_format;    D:\Programs\mingw_get\include\stdio.h
+<SYSTEM>    __mingw_set_printf_count_output;    D:\Programs\mingw_get\include\stdio.h

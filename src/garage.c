@@ -1,4 +1,4 @@
-/* Created by MBaron 11/01/16 */
+/* Its ya boy arthur */
 
 #include <stdio.h>
 #include "optionGrabber.h"
